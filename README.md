@@ -127,6 +127,14 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ---
 
+<p>
+  <a href="./Subhankar_Pandit_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-00A6FF?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <b>Thanks for visiting! I'm always open to collaboration and new opportunities 🚀</b>
 </p>
