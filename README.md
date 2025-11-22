@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5FF&center=true&width=760&lines=Full-Stack+Web+Developer+%7C+Backend+Engineer;Generative+AI+%26+Agentic+AI+Developer;Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Deployments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5FF&center=true&width=760&lines=Full-Stack+Web+Developer+%7C+Backend+Engineer;Generative+AI+%26+Agentic+AI+Explorer;Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Deployments" />
 </p>
 
 ---
