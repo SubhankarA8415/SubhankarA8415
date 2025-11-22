@@ -33,7 +33,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ### ⭐ Web, Backend & Core Programming  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,nodejs,express,mongodb,django,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,nodejs,express,mongodb,django,html,css,mysql" />
 </p>
 
 ### ⭐ AI / ML & Data  
