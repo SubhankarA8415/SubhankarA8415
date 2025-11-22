@@ -5,119 +5,119 @@
 
 <h1 align="center">👋 Hi, I'm <b>Subhankar Pandit</b></h1>
 <p align="center">
-  <b>Full-Stack Developer (MERN & Django) • Backend Engineer • AI/ML • Generative AI • Agentic AI (explorer)</b>
+  <b>Full-Stack Developer (MERN & Django) • Backend Engineer • AI/ML • Generative AI • Agentic AI(explorer)</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5FF&center=true&width=760&lines=Full-Stack+Developer+%7C+Backend+Engineer+%7C+AI+%26+LLMs;Building+Agentic+AI+Systems+%26+Generative+AI+Applications;Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Deployments" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00E5FF&center=true&width=760&lines=Full-Stack+Web+Developer+%7C+Backend+Engineer;Generative+AI+%26+Agentic+AI+Developer;Deep+Learning+%7C+Computer+Vision+%7C+Cloud+Deployments" />
 </p>
 
 ---
 
-## 🚀 About Me  
+---
 
-I am a **Final-year B.Tech CSE student (CGPA: 9.31)** with strong expertise in:
+# 🚀 About Me
+I’m a **Final-year B.Tech CSE student (CGPA: 9.31)** with strong expertise across:
 
-- **Full-Stack Development** (MERN, Django)
-- **Backend Engineering & Scalable Architecture**
-- **Generative AI (LLMs, Prompt Engineering, ChatGPT APIs)**
-- **Agentic AI Systems** (multi-agent workflows, tool-using agents)
-- **Deep Learning & Computer Vision**
-- **Cloud Deployment** (Vercel, Render, Firebase)
+- ⚡ **Full-Stack Development:** MERN, Django  
+- ⚙️ **Backend Engineering:** Scalable APIs, Auth, Architecture  
+- 🤖 **AI/ML:** CNNs, Transfer Learning, OpenCV, NLP  
+- 🧠 **Generative AI:** LLM apps, RAG pipelines, chatbot systems  
+- 🛰 **Agentic AI Systems:** tool-using agents, iterative planning, workflow automation  
+- ☁️ **Cloud:** Vercel, Render, Firebase, Cloudinary  
 
-I build **intelligent, production-ready, cloud-deployed AI systems** and high-performance web applications.  
-*Details verified from my CV.* :contentReference[oaicite:1]{index=1}
+I build **production-ready**, efficient, intelligent systems using modern web + AI technologies.  
+*(Details verified from my resume.)*  
 
 ---
 
-## 🛠 Tech Stack & Tools
+# 🛠 Tech Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,react,nodejs,express,mongodb,django,html,css,tensorflow,keras,opencv,git,github,aws,firebase,postman,vscode" />
+### ⭐ Primary Development Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,java,react,nodejs,express,mongodb,django,html,css" />
 </p>
 
-### **AI & ML**
-- TensorFlow, Keras, Scikit-learn  
-- LLMs (OpenAI, Gemini, LLAMA)  
-- Vector embeddings, RAG pipelines  
-- Agentic AI (tool-executing agents, multi-step planning)  
-- Computer Vision: OpenCV, MediaPipe  
-- Data Science: Pandas, NumPy, Matplotlib, Seaborn  
+### ⭐ AI / ML Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+</p>
+
+### ⭐ Tools & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode,postman" />
+</p>
 
 ---
 
-## 💼 Experience
+# 🧠 Specializations  
+### 🔹 **Generative AI**
+- LLM apps (OpenAI, Gemini, Llama)  
+- RAG pipelines (vector search + embedding models)  
+- Content generation systems  
+- Fine-tuning & prompt engineering  
 
-### 🔹 **Freelance Full-Stack Developer – Solid NGO & Kash College**  
-- Delivered production MERN + EJS platforms  
-- Role-based JWT authentication & secure sessions  
-- Cloudinary image handling & admin dashboards  
-
-### 🔹 **Full-Stack Developer – JPMorgan Chase & Co. (Code for Good 2025)**  
-- Built NGO-focused Agri-tech app  
-- Google OAuth + OTP login  
-- Razorpay payments, chat system, chatbot integration  
-- React + Express + MongoDB contributions  
-
-### 🔹 **Adobe & NITI Aayog Student Mentorship (2020)**  
-- Designed UI/UX using Adobe XD  
-- Selected nationally for a 3-week remote mentorship  
+### 🔹 **Agentic AI**
+- Autonomous AI agents  
+- Multi-step reasoning systems  
+- Tool integrations (APIs, functions, workflows)  
+- Chain-of-Thought orchestration  
 
 ---
 
-## ⭐ Featured Projects
+# 📌 Featured Projects
 
-### 🎨 **Virtual Painter — Computer Vision**
-**Tech:** OpenCV, MediaPipe  
-- Gesture-based air drawing  
-- Hand tracking with brush, color & eraser tools  
+### 🎨 **Virtual Painter – Computer Vision**
+- Real-time hand tracking  
+- Air drawing, eraser mode, color palette  
+- Built using **OpenCV + MediaPipe**
 
-### 🍕 **Food Vision 101 — Deep Learning**
-**Tech:** TensorFlow, Keras, EfficientNetB0  
+### 🍕 **Food Vision 101 – Deep Learning**
+- EfficientNetB0 transfer learning  
 - Classifies **101 food categories**  
-- Achieved ~79% accuracy using transfer learning  
+- Achieved **~79% test accuracy**
 
-### 🏕 **MERN Campground App (Yelp-like)**
-**Tech:** Node.js, Express, MongoDB, Cloudinary  
-- Authentication, CRUD, image uploads  
-- Fully responsive + clean UI  
+### 🏕 **Campground App (Yelp-like) – MERN + EJS**
+- Authentication (JWT, Sessions)  
+- CRUD, Cloudinary uploads  
+- Fully featured production-level app  
 
 ### 🌐 **Django Projects**
 - Blog system  
 - Weather app  
-- Chatbot with API integration  
+- API-based Chatbot  
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhankarA8415&show_icons=true&count_private=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight" height="160" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhankarA8415&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhankarA8415&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhankarA8415&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏆 Certifications
-
-- Python for ML & Data Science – Udemy (2025)  
-- Code for Good – JPMorgan Chase (2025)  
-- Web Developer Bootcamp – Udemy (2024)  
-- Adobe & NITI Aayog Mentee (2020)
+# 🏆 Certifications  
+- Python for ML & Data Science — Udemy  
+- Web Developer Bootcamp — Udemy  
+- Code for Good 2025 — JPMorgan Chase & Co.  
+- Adobe & NITI Aayog Mentorship Program  
 
 ---
 
-## 📬 Contact Me
-
-- 📧 Email: **subhankar.pandit2002@gmail.com**  
-- 🌐 Portfolio: **https://portfolio-subhankar-pandits-projects.vercel.app**  
-- 🔗 LinkedIn: **https://linkedin.com/in/subhankar-pandit-080449255**  
-- 💻 GitHub: **https://github.com/SubhankarA8415**  
-- 📄 Resume (from upload): **/mnt/data/2241016145_SubhankarPandit_SOA.pdf**
+# 📬 Contact Me  
+📧 Email — **subhankar.pandit2002@gmail.com**  
+🌐 Portfolio — **https://portfolio-subhankar-pandits-projects.vercel.app**  
+🔗 LinkedIn — **https://linkedin.com/in/subhankar-pandit-080449255**  
+💻 GitHub — **https://github.com/SubhankarA8415**  
 
 ---
 
