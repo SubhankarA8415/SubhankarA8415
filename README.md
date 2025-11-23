@@ -21,7 +21,7 @@ I am a **Final-year B.Tech CSE student (CGPA: 9.31)** with strong experience in:
 - **Backend Engineering** — scalable APIs, authentication, system architecture  
 - **AI/ML & Deep Learning** — CNNs, TensorFlow, Keras  
 - **Computer Vision** — OpenCV, MediaPipe  
-- **Cloud Deployment** — Vercel, Render, Firebase  
+- **Cloud Deployment** — Vercel, Render, Firebase, AWS  
 
 I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLMs, automation workflows, and intelligent systems into real-world applications.
 
@@ -46,7 +46,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ### ⭐ Tools, Cloud & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode,postman,AWS" />
 </p>
 
 ---
