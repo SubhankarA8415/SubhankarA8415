@@ -45,7 +45,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ### ⭐ Tools, Cloud & Platforms  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode,postman,AWS, Cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,firebase,vscode,postman,AWS, cloudinary" />
 </p>
 
 ---
