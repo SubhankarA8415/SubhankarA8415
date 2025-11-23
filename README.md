@@ -5,11 +5,11 @@
 
 <h1 align="center">👋 Hi, I'm <b>Subhankar Pandit</b></h1>
 <p align="center">
-  <b>Full-Stack Developer (MERN & Django) • Backend Engineering • AI/ML Enthusiast</b>
+  <b>Full-Stack Developer (MERN & Django) • Backend Engineering • AI/ML Enthusiast • Cloud</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1300&color=00E5FF&center=true&width=780&lines=Full-Stack+Web+Developer+%7C+Backend+Engineer;Deep+Learning+%26+Computer+Vision+Enthusiast;Currently+Exploring+Generative+AI+%26+Agentic+AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1300&color=00E5FF&center=true&width=780&lines=Full-Stack+Web+Developer+%7C+Backend+Engineer;AI/ML+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Cloud;Currently+Exploring+Generative+AI+%26+Agentic+AI" />
 </p>
 
 ---
