@@ -105,7 +105,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SubhankarA8415&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" />
+  <img src="https://img.shields.io/badge/Current_Streak-Auto--Updating-blue?style=for-the-badge" height="170" />
 </p>
 
 ---
