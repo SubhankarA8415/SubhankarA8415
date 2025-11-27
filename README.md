@@ -105,7 +105,13 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current_Streak-Auto--Updating-blue?style=for-the-badge" height="170" />
+  <!-- Primary pretty streak image -->
+  <img src="https://streak-stats.demolab.com?user=SubhankarA8415&theme=tokyonight&hide_border=true"
+       onerror="this.style.display='none'" height="170" />
+
+  <!-- Fallback simple image -->
+  <img src="https://img.shields.io/badge/Streak-Stats_Unavailable-blue?style=for-the-badge"
+       height="170" />
 </p>
 
 ---
