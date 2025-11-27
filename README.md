@@ -37,7 +37,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ### ⭐ AI / ML & Data  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,streamlit" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
