@@ -106,10 +106,10 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 ---
 
 # 🏆 Certifications  
-- Python for ML & Data Science — Udemy  
-- Web Developer Bootcamp — Udemy  
-- Code for Good 2025 — JPMorgan Chase & Co.  
-- Adobe & NITI Aayog Mentorship Program  
+- Python for ML & Data Science — <a href="https://www.udemy.com/certificate/UC-b0ee345a-c8dd-49e3-a295-b66a1e731055/">Udemy</a>
+- Web Developer Bootcamp — <a href="https://www.udemy.com/certificate/UC-f18b2d39-1672-42bb-8e94-5930e8caabd5/">Udemy</a>  
+- Code for Good 2025 — <a href="https://www.dropbox.com/scl/fi/jdz19t5mkgzyhg3x7hilo/cfg_hyd_JPMC.jpg?rlkey=4h16id8yo5g48ifyu0j9x6eb4&e=1&st=lm4xfat5&dl=0">JPMorgan Chase & Co.</a>  
+- Mentorship Program - <a href="https://www.dropbox.com/scl/fi/pcrcap83zruw2e5g727gy/Niti-aayog-adobe-mentorship.jpg?rlkey=24u09rpjk95zrk6bv463lv9ui&e=1&st=7zvxrcfa&dl=0">Adobe & NITI Aayog</a>  
 
 ---
 
