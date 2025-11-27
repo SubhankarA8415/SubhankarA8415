@@ -79,12 +79,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ---
 
-# 💼 Work Experience  
-
-### 🔹 **Freelance Full-Stack Developer – Solid NGO & Kash College**  
-- Developed production-ready MERN + EJS web portals  
-- Role-based auth (JWT), HTTP-only cookies  
-- Cloudinary integration & admin controls  
+# 💼 Work Experience   
 
 ### 🔹 **Full-Stack Developer – JPMorgan Chase & Co., Code for Good 2025**  
 - Built an Agri-tech platform for real-world NGO use  
