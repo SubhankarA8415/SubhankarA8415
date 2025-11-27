@@ -105,7 +105,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SubhankarA8415&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=SubhankarA8415&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
