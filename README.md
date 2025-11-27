@@ -104,15 +104,17 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-<p align="center">
-  <!-- Primary pretty streak image -->
+<div align="center" style="display: flex; justify-content: center;">
+
+  <!-- Fancy streak image -->
   <img src="https://streak-stats.demolab.com?user=SubhankarA8415&theme=tokyonight&hide_border=true"
        onerror="this.style.display='none'" height="170" />
 
-  <!-- Fallback simple image -->
+  <!-- Fallback badge -->
   <img src="https://img.shields.io/badge/Streak-Stats_Unavailable-blue?style=for-the-badge"
        height="170" />
-</p>
+
+</div>
 
 ---
 
