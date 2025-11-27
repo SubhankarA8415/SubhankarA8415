@@ -37,7 +37,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 ### ⭐ AI / ML & Data  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,flask,streamlit" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" />
@@ -77,6 +77,11 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 ### 🌐 **Django Projects (Blog, Weather, Chatbot)**
 - Multiple applications demonstrating Python backend, API integration & frontend rendering  
 
+### 🤖 **Machine Learning & Data Science Projects**
+- Built end-to-end ML workflows with **EDA**, **feature engineering**, and model training across multiple datasets, including tree-based and regression models.  
+- Implemented and analyzed **Decision Trees, Random Forest, Gradient Boosting, AdaBoost, XGBoost**, and comparative model evaluation using metrics like RMSE, MAE, and R².  
+- Deployed a production-ready **Random Forest Regressor** via a **Flask API**, enabling real-time **JSON-based predictions** with joblib-based model loading.
+
 ---
 
 # 💼 Work Experience   
@@ -106,6 +111,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 ---
 
 # 🏆 Certifications  
+- Ultimate AWS Certified Developer Associate DVA-C02 - <a href="https://www.udemy.com/certificate/UC-1d19754c-28a4-4d69-a5c1-e4edbd1ebbd6/">Udemy</a>
 - Python for ML & Data Science — <a href="https://www.udemy.com/certificate/UC-b0ee345a-c8dd-49e3-a295-b66a1e731055/">Udemy</a>
 - Web Developer Bootcamp — <a href="https://www.udemy.com/certificate/UC-f18b2d39-1672-42bb-8e94-5930e8caabd5/">Udemy</a>  
 - Code for Good 2025 — <a href="https://www.dropbox.com/scl/fi/jdz19t5mkgzyhg3x7hilo/cfg_hyd_JPMC.jpg?rlkey=4h16id8yo5g48ifyu0j9x6eb4&e=1&st=lm4xfat5&dl=0">JPMorgan Chase & Co.</a>  
