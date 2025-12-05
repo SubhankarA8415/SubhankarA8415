@@ -100,21 +100,31 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 # 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhankarA8415&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SubhankarA8415&theme=tokyonight&show_icons=true&hide_border=true" 
+    height="160"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+
 </p>
 
-<div align="center" style="display: flex; justify-content: center;">
+<p align="center">
 
-  <!-- Fancy streak image -->
-  <img src="https://streak-stats.demolab.com?user=SubhankarA8415&theme=tokyonight&hide_border=true"
-       onerror="this.style.display='none'" height="170" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats-git-main-rstaa-rickstaa.vercel.app?user=SubhankarA8415&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 
-  <!-- Fallback badge -->
-  <img src="https://img.shields.io/badge/Streak-Stats_Unavailable-blue?style=for-the-badge"
-       height="170" />
+</p>
 
-</div>
 
 ---
 
