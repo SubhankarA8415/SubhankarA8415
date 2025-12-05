@@ -102,21 +102,30 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 <p align="center">
 
-  <!-- Followers (Shields) -->
-  <img src="https://img.shields.io/github/followers/SubhankarA8415?label=Followers&style=for-the-badge" height="28" />
+  <!-- Fancy Stats Card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SubhankarA8415&theme=tokyonight" 
+    height="160"
+  />
 
-  <!-- Top language (Shields) -->
-  <img src="https://img.shields.io/github/languages/top/SubhankarA8415?style=for-the-badge" height="28" />
-
-  <!-- Profile views (Komarev) -->
-  <img src="https://komarev.com/ghpvc/?username=SubhankarA8415&style=for-the-badge" height="28" />
+  <!-- Fancy Languages Card -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhankarA8415&theme=tokyonight" 
+    height="160"
+  />
 
 </p>
 
 <p align="center">
-  <!-- Contributions calendar (GHChart) -->
-  <img src="https://ghchart.rshah.org/SubhankarA8415" alt="GitHub contributions chart" />
+
+  <!-- Fancy Productive Time (similar to Streak aesthetic) -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhankarA8415&theme=tokyonight" 
+    height="170"
+  />
+
 </p>
+
 
 ---
 
