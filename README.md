@@ -100,27 +100,19 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 # 📊 GitHub Analytics  
 
-<p align="center">
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SubhankarA8415&theme=tokyonight" 
-    height="160"
-    style="display: inline-block; margin-right: 10px;"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhankarA8415&theme=tokyonight" 
-    height="160"
-    style="display: inline-block; margin-right: 10px;"
-  />
-
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhankarA8415&theme=tokyonight"
-    height="160"
-    style="display: inline-block;"
-  />
-
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SubhankarA8415&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhankarA8415&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhankarA8415&theme=tokyonight" height="160"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
