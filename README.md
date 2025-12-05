@@ -99,32 +99,24 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 ---
 
 # 📊 GitHub Analytics  
+
 <p align="center">
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SubhankarA8415&theme=tokyonight&show_icons=true&hide_border=true" 
-    height="160"
-  />
+  <!-- Followers (Shields) -->
+  <img src="https://img.shields.io/github/followers/SubhankarA8415?label=Followers&style=for-the-badge" height="28" />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SubhankarA8415&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
+  <!-- Top language (Shields) -->
+  <img src="https://img.shields.io/github/languages/top/SubhankarA8415?style=for-the-badge" height="28" />
+
+  <!-- Profile views (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=SubhankarA8415&style=for-the-badge" height="28" />
 
 </p>
 
 <p align="center">
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats-git-main-rstaa-rickstaa.vercel.app?user=SubhankarA8415&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-
+  <!-- Contributions calendar (GHChart) -->
+  <img src="https://ghchart.rshah.org/SubhankarA8415" alt="GitHub contributions chart" />
 </p>
-
 
 ---
 
