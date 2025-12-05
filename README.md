@@ -102,30 +102,25 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 <p align="center">
 
-  <!-- Fancy Stats Card -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SubhankarA8415&theme=tokyonight" 
     height="160"
+    style="display: inline-block; margin-right: 10px;"
   />
 
-  <!-- Fancy Languages Card -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SubhankarA8415&theme=tokyonight" 
     height="160"
+    style="display: inline-block; margin-right: 10px;"
   />
 
-</p>
-
-<p align="center">
-
-  <!-- Fancy Productive Time (similar to Streak aesthetic) -->
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhankarA8415&theme=tokyonight" 
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SubhankarA8415&theme=tokyonight"
+    height="160"
+    style="display: inline-block;"
   />
 
 </p>
-
 
 ---
 
