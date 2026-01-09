@@ -60,6 +60,16 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 # 📌 Featured Projects  
 
+### 🎤 **Voice-Enabled Government Scheme Recommendation Agent**
+- Built using **Python, faster-whisper, gTTS, and Google Gemini API**
+- Voice-based user interaction with **speech confirmation handling**
+- Recommends eligible government schemes using **LLM-guided decisions and rule-based logic**
+
+### 📘 **LLM Fine-Tuning for Academic Question Answering**
+- Built using **PyTorch and Hugging Face Transformers**
+- Supervised fine-tuning and **instruction tuning** on a custom academic dataset
+- Generates **stable, textbook-style answers** using FLAN-T5
+
 ### 🎨 **Virtual Painter – Computer Vision**
 - Built using **OpenCV + MediaPipe**  
 - Real-time hand tracking  
@@ -109,6 +119,7 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 ---
 
 # 🏆 Certifications  
+- TensorFlow for Deep Learning Bootcamp - <a href="https://www.udemy.com/certificate/UC-0591170a-5393-44ab-8794-1ccaf6cc5a7d/">Udemy</a>
 - Ultimate AWS Certified Developer Associate DVA-C02 - <a href="https://www.udemy.com/certificate/UC-1d19754c-28a4-4d69-a5c1-e4edbd1ebbd6/">Udemy</a>
 - Python for ML & Data Science — <a href="https://www.udemy.com/certificate/UC-b0ee345a-c8dd-49e3-a295-b66a1e731055/">Udemy</a>
 - Web Developer Bootcamp — <a href="https://www.udemy.com/certificate/UC-f18b2d39-1672-42bb-8e94-5930e8caabd5/">Udemy</a>  
