@@ -15,7 +15,7 @@
 ---
 
 # 🚀 About Me  
-I am a **Final-year B.Tech CSE student (CGPA: 9.31)** with strong experience in:
+I am a **Final-year B.Tech CSE student (CGPA: 9.3)** with strong experience in:
 
 - **Full-Stack Web Development** — MERN & Django  
 - **Backend Engineering** — scalable APIs, authentication, system architecture, payment gateways, authorization etc
