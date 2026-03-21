@@ -60,6 +60,11 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 # 📌 Featured Projects  
 
+### 📈 **Bitcoin Price Forecasting using Deep Learning (BitPredict)**
+- Built using **Python, TensorFlow/Keras, Pandas, NumPy, and Matplotlib**
+- Implements multiple models including **Dense, LSTM, CNN, N-BEATS, and Ensemble methods**
+- Predicts future Bitcoin prices using **time series forecasting with windowing and chronological train-test splitting**
+  
 ### 🎤 **Voice-Enabled Government Scheme Recommendation Agent**
 - Built using **Python, faster-whisper, gTTS, and Google Gemini API**
 - Voice-based user interaction with **speech confirmation handling**
