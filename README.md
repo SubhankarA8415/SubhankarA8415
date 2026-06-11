@@ -60,6 +60,13 @@ I am **currently exploring Generative AI & Agentic AI**, aiming to integrate LLM
 
 # 📌 Featured Projects  
 
+### 🩺 **AI Health Companion – Hybrid AI Healthcare Intelligence Platform**
+- Built using **Python, FastAPI, Streamlit, TensorFlow/Keras, XGBoost, LightGBM, SQLite, SQLAlchemy, Plotly, and OpenRouter API**
+- Developed a **full-stack AI-powered healthcare analytics platform** combining Machine Learning, Deep Learning, Wellness Analytics, and LLM-based interpretation for preventive healthcare assessment
+- Performs **Diabetes, Heart Disease, Obesity, Lifestyle Wellness, and Behavioral Health Risk prediction** using a hybrid multi-model inference pipeline
+- Features **AI-generated health interpretations, personalized wellness scoring, preventive healthcare recommendations, and an AI-powered healthcare assistant**
+- Includes **interactive health dashboards, risk probability visualization, PDF report generation, secure authentication, persistent report history, and user-specific analytics tracking**
+
 ### 📈 **Bitcoin Price Forecasting using Deep Learning (BitPredict)**
 - Built using **Python, TensorFlow/Keras, Pandas, NumPy, and Matplotlib**
 - Implements multiple models including **Dense, LSTM, CNN, N-BEATS, and Ensemble methods**
