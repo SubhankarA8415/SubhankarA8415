@@ -472,10 +472,6 @@ Throughout these projects, I have gained practical experience in:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhankarA8415&theme=github-dark&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhankarA8415&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 # 🏆 Certifications
@@ -535,16 +531,9 @@ As I continue my journey, this profile will grow through new projects, meaningfu
 
 </p>
 
-<!-- <p align="center">
+<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SubhankarA8415&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SubhankarA8415&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p> -->
