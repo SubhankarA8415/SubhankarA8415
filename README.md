@@ -151,6 +151,7 @@ A production-oriented healthcare intelligence platform combining Machine Learnin
 - Intelligent Health Report Generation
 - Model Evaluation Pipeline
 - Production-Oriented Deployment Structure
+- RAG based retrieval system
 
 ### 🛠️ Tech Stack
 
@@ -394,6 +395,16 @@ Throughout these projects, I have gained practical experience in:
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask" />
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
+
+</p>
+
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning
@@ -404,17 +415,61 @@ Throughout these projects, I have gained practical experience in:
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LightGBM-7CB342?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge>Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🧠 Generative AI & LLMs
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-0A7EA4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 👁️ Computer Vision & Deep Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Transfer%20Learning-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Time%20Series%20Forecasting-1565C0?style=for-the-badge"/>
 
 </p>
 
@@ -423,15 +478,31 @@ Throughout these projects, I have gained practical experience in:
 ## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud & Deployment
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,firebase,git,github,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,vercel" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
 </p>
 
 ---
@@ -439,15 +510,20 @@ Throughout these projects, I have gained practical experience in:
 ## 🛠️ Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
+<p align="center">
 
-<!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
-<!-- ===================================================== -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+
+</p>
 # 📊 GitHub Analytics
 
 <p align="center">
